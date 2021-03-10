@@ -7,6 +7,7 @@
 
 
 // https://www.spoj.com/users/brunosrb/
+// https://github.com/Jaxiii/PAA_2020-2_TRABALHO_1
 
 #include <iostream>
 using namespace std;
