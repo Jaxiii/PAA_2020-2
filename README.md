@@ -29,4 +29,4 @@ Binary Search
 
 [SPOJ - Bruno S. R. de Barros](https://www.spoj.com/users/brunosrb/) - https://www.spoj.com/users/brunosrb/
 
-[GitHub - Bruno S. R. de Barros]() - 
+[GitHub - Bruno S. R. de Barros](https://github.com/Jaxiii/PAA_2020-2_TRABALHO_1) - https://github.com/Jaxiii/PAA_2020-2_TRABALHO_1
